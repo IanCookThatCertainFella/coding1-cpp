@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/PairProg/.vs
+/.vs
+/Week 3/.vs
