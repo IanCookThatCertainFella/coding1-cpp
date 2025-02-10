@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thatb\\GitHub\\Adventure1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9C6BB6-973D-46C8-9E35-49A04A64AC39}|Adventure1.vcxproj|C:\\Users\\thatb\\GitHub\\Adventure1\\Adventure1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC9C6BB6-973D-46C8-9E35-49A04A64AC39}|Adventure1.vcxproj|solutionrelative:Adventure1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Adventure1.cpp",
+              "DocumentMoniker": "C:\\Users\\thatb\\GitHub\\Adventure1\\Adventure1.cpp",
+              "RelativeDocumentMoniker": "Adventure1.cpp",
+              "ToolTip": "C:\\Users\\thatb\\GitHub\\Adventure1\\Adventure1.cpp",
+              "RelativeToolTip": "Adventure1.cpp",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwEQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-05T01:18:36.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
