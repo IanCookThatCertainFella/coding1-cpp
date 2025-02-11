@@ -1,6 +1,6 @@
 ﻿  Adventure1.cpp
-C:\Users\thatb\GitHub\Adventure1\Adventure1.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\thatb\GitHub\Adventure1\Adventure1.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\thatb\GitHub\Adventure1\Adventure1.cpp(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\thatb\GitHub\Adventure1\Adventure1.cpp(19,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Adventure1.vcxproj -> C:\Users\thatb\GitHub\Adventure1\x64\Debug\Adventure1.exe
+C:\Users\thatb\GitHub\coding1-cpp\Adventure1\Adventure1.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\thatb\GitHub\coding1-cpp\Adventure1\Adventure1.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\thatb\GitHub\coding1-cpp\Adventure1\Adventure1.cpp(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\thatb\GitHub\coding1-cpp\Adventure1\Adventure1.cpp(15,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Adventure1.vcxproj -> C:\Users\thatb\GitHub\coding1-cpp\Adventure1\x64\Debug\Adventure1.exe
