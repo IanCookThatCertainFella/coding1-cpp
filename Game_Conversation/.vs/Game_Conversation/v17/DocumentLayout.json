@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thatb\\GitHub\\coding1-cpp\\Game_Conversation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{581B873A-39C8-49BC-99CF-B83D28BF210F}|Game_Conversation.vcxproj|C:\\Users\\thatb\\GitHub\\coding1-cpp\\Game_Conversation\\Game_Conversation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{581B873A-39C8-49BC-99CF-B83D28BF210F}|Game_Conversation.vcxproj|solutionrelative:Game_Conversation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game_Conversation.cpp",
+              "DocumentMoniker": "C:\\Users\\thatb\\GitHub\\coding1-cpp\\Game_Conversation\\Game_Conversation.cpp",
+              "RelativeDocumentMoniker": "Game_Conversation.cpp",
+              "ToolTip": "C:\\Users\\thatb\\GitHub\\coding1-cpp\\Game_Conversation\\Game_Conversation.cpp",
+              "RelativeToolTip": "Game_Conversation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-25T17:29:37.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

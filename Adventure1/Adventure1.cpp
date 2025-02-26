@@ -9,37 +9,28 @@
 #include <ctime>;
 using namespace std;
 
-
-
-
-
 int main()
-{
-    //seed the random number generator
-    srand(time(0));
-    //welcome the player
-    cout << "Greetings player! Ready for an adventure?\n";
+{                                                               
+    srand(time(0));                                                                        //seed the random number generator
 
-    //start the encounter
-    cout << "Hark! A horrifying creature reveals itself! Kill it, before it kills you!\n";
+    cout << "Greetings player! Ready for an adventure?\n";                                 //welcome the player
 
- //set up the game
-    //int health = 10, attack, block, turns = 0
-    int health = 10;
+    cout << "Hark! A horrifying creature reveals itself! Kill it, before it kills you!\n"; //start the encounter
+
+                                                                                           //set up the game
+    int health = 10;                                                                       //int health = 10, attack, block, turns = 0
     int enemyHealth = 10;
-    int attack;
-    int enemyAttack;
-    int block;
-    int enemyBlock;
+    int attack = 0;
+    int enemyAttack = 0;
+    int block = 0;
+    int enemyBlock = 0;
     int turn = 0;
     bool game = true;
     bool death = false;
     string input;
     
-    //start the loop
-    while (game == true) {
-        //add 1 to turns
-        turn += 1;
+    while (game == true) {                                                                 //start the loop
+        turn += 1;                                                                         //add 1 to turns
 
         cout << "You have " << health << " HP.\n";
 
@@ -48,10 +39,10 @@ int main()
         cin >> input;
 
         if (input == "roll") {
-            attack = (rand() % 4) + 1;
-            block = (rand() % 4) + 1;
-            enemyAttack = (rand() % 4) + 1;
-            enemyBlock = (rand() % 4) + 1;
+            attack = rand() % 5;
+            block = rand() % 5;
+            enemyAttack = rand() % 5;
+            enemyBlock = rand() % 5;
 
             cout << "You rolled a " << attack << " to attack and a " << block << " to block.\n";
             cout << "The terrible beast rolled a " << enemyAttack << " to attack and a " << enemyBlock << " to block.\n";
@@ -92,7 +83,7 @@ int main()
         if (game == false) {
             
             if (death == false) {
-                cout << "That was quite the adventure, am I right?\nWanna keep going?\n";
+                cout << "That was quite the adventure, am I right?\nWanna keep going?\nType 'yes' to continue.\n";
                 cin >> input;
                 if (input == "yes") {
                     cout << "That seals the deal! Here we go again!\n";
@@ -105,7 +96,6 @@ int main()
                     cout << "Alrighty then, have a good day!";
                 }
             }
-            
         }
     }
 
