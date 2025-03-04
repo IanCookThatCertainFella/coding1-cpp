@@ -11,6 +11,7 @@ int main()
 	const int MAX_SIZE = 15;
 
 	int gameCount = 0;
+
 	string games[MAX_SIZE];
 
 	string input;
@@ -24,7 +25,7 @@ int main()
 	do {
 		cout << "Type:\n";
 		cout << "'add' to add one to the list,\n'edit' to change the name of a game you have added,\n";
-		cout << "'remove' to get rid of one you have added,\n'show' to see the list,\n 'quit' to quit the program.\n";
+		cout << "'remove' to get rid of one you have added,\n'show' to see the list,\n'quit' to quit the program.\n";
 		getline(cin, input);
 
 		if (input == "quit") {
@@ -33,7 +34,7 @@ int main()
 		}
 
 		if (input == "add") {
-			if (gameCount > 19) {
+			if (gameCount >= MAX_SIZE) {
 				cout << "Maximum game count reached.";
 				full = true;
 			}
