@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thatb\\GitHub\\coding1-cpp\\Adventure2_Function_Edition\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{723673A0-A7E1-4DFC-8C0B-B70D66E95BAC}|Adventure2_Function_Edition.vcxproj|C:\\Users\\thatb\\GitHub\\coding1-cpp\\Adventure2_Function_Edition\\Adventure2_Function_Edition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{723673A0-A7E1-4DFC-8C0B-B70D66E95BAC}|Adventure2_Function_Edition.vcxproj|solutionrelative:Adventure2_Function_Edition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Adventure2_Function_Edition.cpp",
+              "DocumentMoniker": "C:\\Users\\thatb\\GitHub\\coding1-cpp\\Adventure2_Function_Edition\\Adventure2_Function_Edition.cpp",
+              "RelativeDocumentMoniker": "Adventure2_Function_Edition.cpp",
+              "ToolTip": "C:\\Users\\thatb\\GitHub\\coding1-cpp\\Adventure2_Function_Edition\\Adventure2_Function_Edition.cpp",
+              "RelativeToolTip": "Adventure2_Function_Edition.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T23:27:46.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
