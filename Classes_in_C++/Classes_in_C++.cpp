@@ -20,7 +20,7 @@ class human {
 private:
     string name = "";
     int health = 10;
-    int damage = 2;
+    int damage = 4;
 
 public:
 
@@ -74,14 +74,13 @@ public:
 
 int main()
 {
-    std::cout << "Hello World!\n";
 
     human brother("Nathaniel", 3, 5);
     brother.sayHello();
     brother.setdamage(37);
     brother.sethealth(78);
-    cout << "Shazibby!!! They're damage is now " << brother.getdamage() << "!!!\n";
-    cout << "Shazooby!!! They're health is now " << brother.gethealth() << "!!!\n";
+    cout << "Shazibby!!! Their damage is now " << brother.getdamage() << "!!!\n";
+    cout << "Shazooby!!! Their health is now " << brother.gethealth() << "!!!\n";
 
 
 }
