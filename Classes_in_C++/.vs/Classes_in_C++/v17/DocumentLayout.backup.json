@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\thatb\\GitHub\\coding1-cpp\\Classes_in_C\u002B\u002B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F52D15CF-7534-439A-BF49-B1DA5E0E0FB1}|Classes_in_C\u002B\u002B.vcxproj|C:\\Users\\thatb\\GitHub\\coding1-cpp\\Classes_in_C\u002B\u002B\\Classes_in_C\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F52D15CF-7534-439A-BF49-B1DA5E0E0FB1}|Classes_in_C\u002B\u002B.vcxproj|solutionrelative:Classes_in_C\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thatb\\GitHub\\coding1-cpp\\Classes_in_C\u002B\u002B\\w14main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:w14main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thatb\\GitHub\\coding1-cpp\\Classes_in_C\u002B\u002B\\x64\\Debug\\w14main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:x64\\Debug\\w14main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Classes_in_C\u002B\u002B.cpp",
-              "DocumentMoniker": "C:\\Users\\thatb\\GitHub\\coding1-cpp\\Classes_in_C\u002B\u002B\\Classes_in_C\u002B\u002B.cpp",
-              "RelativeDocumentMoniker": "Classes_in_C\u002B\u002B.cpp",
-              "ToolTip": "C:\\Users\\thatb\\GitHub\\coding1-cpp\\Classes_in_C\u002B\u002B\\Classes_in_C\u002B\u002B.cpp",
-              "RelativeToolTip": "Classes_in_C\u002B\u002B.cpp",
-              "ViewState": "AgIAADoAAAAAAAAAAAAowEcAAAAFAAAAAAAAAA==",
+              "Title": "w14main.cpp",
+              "DocumentMoniker": "C:\\Users\\thatb\\GitHub\\coding1-cpp\\Classes_in_C\u002B\u002B\\w14main.cpp",
+              "RelativeDocumentMoniker": "w14main.cpp",
+              "ToolTip": "C:\\Users\\thatb\\GitHub\\coding1-cpp\\Classes_in_C\u002B\u002B\\w14main.cpp",
+              "RelativeToolTip": "w14main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-09T23:43:55.014Z",
+              "WhenOpened": "2025-04-22T15:06:57.842Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "w14main.cpp",
+              "DocumentMoniker": "C:\\Users\\thatb\\GitHub\\coding1-cpp\\Classes_in_C\u002B\u002B\\x64\\Debug\\w14main.cpp",
+              "RelativeDocumentMoniker": "x64\\Debug\\w14main.cpp",
+              "ToolTip": "C:\\Users\\thatb\\GitHub\\coding1-cpp\\Classes_in_C\u002B\u002B\\x64\\Debug\\w14main.cpp",
+              "RelativeToolTip": "x64\\Debug\\w14main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T14:54:53.613Z"
             }
           ]
         }

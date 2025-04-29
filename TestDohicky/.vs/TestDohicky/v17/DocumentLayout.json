@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thatb\\GitHub\\coding1-cpp\\TestDohicky\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E88F20A2-CA7F-4211-A9C9-0E9D49821C58}|TestDohicky.vcxproj|C:\\Users\\thatb\\GitHub\\coding1-cpp\\TestDohicky\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E88F20A2-CA7F-4211-A9C9-0E9D49821C58}|TestDohicky.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88F20A2-CA7F-4211-A9C9-0E9D49821C58}|TestDohicky.vcxproj|C:\\Users\\thatb\\GitHub\\coding1-cpp\\TestDohicky\\filemgmt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E88F20A2-CA7F-4211-A9C9-0E9D49821C58}|TestDohicky.vcxproj|solutionrelative:filemgmt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88F20A2-CA7F-4211-A9C9-0E9D49821C58}|TestDohicky.vcxproj|C:\\Users\\thatb\\GitHub\\coding1-cpp\\TestDohicky\\itemm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E88F20A2-CA7F-4211-A9C9-0E9D49821C58}|TestDohicky.vcxproj|solutionrelative:itemm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88F20A2-CA7F-4211-A9C9-0E9D49821C58}|TestDohicky.vcxproj|C:\\Users\\thatb\\GitHub\\coding1-cpp\\TestDohicky\\itemm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E88F20A2-CA7F-4211-A9C9-0E9D49821C58}|TestDohicky.vcxproj|solutionrelative:itemm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88F20A2-CA7F-4211-A9C9-0E9D49821C58}|TestDohicky.vcxproj|C:\\Users\\thatb\\GitHub\\coding1-cpp\\TestDohicky\\filemgmt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E88F20A2-CA7F-4211-A9C9-0E9D49821C58}|TestDohicky.vcxproj|solutionrelative:filemgmt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thatb\\GitHub\\coding1-cpp\\Classes_in_C\u002B\u002B\\w14main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "itemm.cpp",
+              "DocumentMoniker": "C:\\Users\\thatb\\GitHub\\coding1-cpp\\TestDohicky\\itemm.cpp",
+              "RelativeDocumentMoniker": "itemm.cpp",
+              "ToolTip": "C:\\Users\\thatb\\GitHub\\coding1-cpp\\TestDohicky\\itemm.cpp",
+              "RelativeToolTip": "itemm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T15:54:42.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "itemm.h",
+              "DocumentMoniker": "C:\\Users\\thatb\\GitHub\\coding1-cpp\\TestDohicky\\itemm.h",
+              "RelativeDocumentMoniker": "itemm.h",
+              "ToolTip": "C:\\Users\\thatb\\GitHub\\coding1-cpp\\TestDohicky\\itemm.h",
+              "RelativeToolTip": "itemm.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-22T15:54:38.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\thatb\\GitHub\\coding1-cpp\\TestDohicky\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\thatb\\GitHub\\coding1-cpp\\TestDohicky\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T15:09:07.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "filemgmt.h",
+              "DocumentMoniker": "C:\\Users\\thatb\\GitHub\\coding1-cpp\\TestDohicky\\filemgmt.h",
+              "RelativeDocumentMoniker": "filemgmt.h",
+              "ToolTip": "C:\\Users\\thatb\\GitHub\\coding1-cpp\\TestDohicky\\filemgmt.h",
+              "RelativeToolTip": "filemgmt.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-22T15:38:59.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "filemgmt.cpp",
+              "DocumentMoniker": "C:\\Users\\thatb\\GitHub\\coding1-cpp\\TestDohicky\\filemgmt.cpp",
+              "RelativeDocumentMoniker": "filemgmt.cpp",
+              "ToolTip": "C:\\Users\\thatb\\GitHub\\coding1-cpp\\TestDohicky\\filemgmt.cpp",
+              "RelativeToolTip": "filemgmt.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T15:38:28.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "w14main.cpp",
+              "DocumentMoniker": "C:\\Users\\thatb\\GitHub\\coding1-cpp\\Classes_in_C\u002B\u002B\\w14main.cpp",
+              "RelativeDocumentMoniker": "..\\Classes_in_C\u002B\u002B\\w14main.cpp",
+              "ToolTip": "C:\\Users\\thatb\\GitHub\\coding1-cpp\\Classes_in_C\u002B\u002B\\w14main.cpp",
+              "RelativeToolTip": "..\\Classes_in_C\u002B\u002B\\w14main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T15:11:12.381Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

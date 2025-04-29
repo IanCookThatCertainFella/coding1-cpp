@@ -5,6 +5,8 @@
 #include <string>
 using namespace std;
 
+bool debug = true;
+
 // Make a 'Human Class with
 // String Name
 // Int Health
@@ -17,37 +19,35 @@ using namespace std;
 // int getdamage
 
 class human {
-private:
-    string name = "";
-    int health = 10;
-    int damage = 4;
+protected:
+    string name;
+    int health;
+    int damage;
 
 public:
 
-    human(string givenName, int baseHealth, int baseDamage) {
+    human(string givenName = "", int baseHealth = 10, int baseDamage = 4) {
         name = givenName;
         health = baseHealth;
         damage = baseDamage;
-
-    }
-
-    human() {
-        cout << "Oi! This is using the default constructor!";
     }
 
     void sayHello() {
         cout << "This is the human " << name << ".\nThey have " << health << " health and if they punched you, they'd deal " << damage << " damage.\n";
     }
 
-    void sethealth(int amountHealth) {
-        if (amountHealth < 0) {
+    virtual void sethealth(int amountHealth) {
+        if (debug) {
+            cout << "at top of sethealth(amounthealth), health = " << health << ", amountHealth = " << amountHealth << ".\n";
+        }
+
+        health += amountHealth;
+
+        if (health < 0) {
             health = 0;
         } 
-        else if (amountHealth > 999) {
+        else if (health > 999) {
             health = 999;
-        }
-        else {
-            health = amountHealth;
         }
     }
 
@@ -70,10 +70,92 @@ public:
     int getdamage() {
         return damage;
     }
+
+    string getname() {
+        return name;
+    }
+
+    void setName(string givenName) {
+        name = givenName;
+    }
+
+    void setHurt(int amounthurt) {
+        amounthurt = damage;
+        health -= amounthurt;
+    }
+};  // end of human class
+
+// if private or protected, all public things in the human class are made private
+class barbarian : public human {
+    // this class should inhereit all of the things that a human has
+    // add a constructor
+    // add a yell() funciton
+    // add a doubleSwing() function.
+
+public:
+    barbarian(string givenName = "", int baseHealth = 10, int baseDamage = 4) {
+        sethealth(baseHealth);
+        setName(givenName);
+        setdamage(baseDamage);
+    }
+
+    void Yell() {
+        cout << "The Barbarian unleashes an inhuman yell, hurting his teams' ears and boosting their stats in frustration!.\n";
+    }
+
+    void doubleSwing(human& target) {
+        cout << "The barbarian swings both weapons at " << target.getname() << "!\n";
+
+        // call the setDamage() function on the human target
+        // use the damage from "This" instance of a barbarian
+        // the damage because it's a double swing
+        int tempDamage = this->getdamage() * 2;
+        target.sethealth(-tempDamage);
+    }
+
+};  // end of barbarian class
+
+class shopkeep : public human {
+protected:
+    int gold;
+    string shopName;
+public:
+    shopkeep() {
+        gold = 15;
+    }
+
+    void setShop(string givenShop) {
+        shopName = givenShop;
+    }
+
+    string getShop() {
+        return shopName;
+    }
+
+    void sethealth(int baseHealth) override {
+        health += baseHealth; 
+
+        if (health <= 0) {
+            cout << "The proprietor of " << shopName << " has died.\n";
+            cout << "They dropped " << gold << " gold.\n";
+        }
+
+    }
+
+    
+
+
+
+
+
 };
 
 int main()
 {
+    barbarian destructor("Destructor", 22, 4);
+    destructor.sayHello();
+
+    shopkeep Geraldo();
 
     human brother("Nathaniel", 3, 5);
     brother.sayHello();
@@ -81,7 +163,10 @@ int main()
     brother.sethealth(78);
     cout << "Shazibby!!! Their damage is now " << brother.getdamage() << "!!!\n";
     cout << "Shazooby!!! Their health is now " << brother.gethealth() << "!!!\n";
+    brother.sayHello();
 
+    destructor.doubleSwing(brother);
+    brother.sayHello();
 
 }
 
